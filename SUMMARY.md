@@ -1,7 +1,6 @@
 # Summary
 
-[介绍](README.md)
-
+* [介绍](README.md)
 * [前言](preface.md)
   * [模块系统](module-system.md)
   * [重复的轮子](what-is-webpack.md)
